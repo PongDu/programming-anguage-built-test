@@ -1,5 +1,5 @@
 
-## error: refname refs/heads/master not found 에러 대처 방법
+## error: refname refs/heads/master not found
 
 #### 1. git add . -> git commit 
    -> master branch로 변경 사항들을 다 커밋해준다.
