@@ -28,8 +28,8 @@ gcc hello.c -o hello
 
 파일 확인
 ```bash
-ldd hello-static
-file hello-static
+ldd hello
+file hello
 ```
 -> hello: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked
     -> 다이나믹 파일임을 확인
