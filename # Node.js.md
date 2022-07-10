@@ -72,7 +72,7 @@ app.listen(port, hostname)
 console.log('running on http://${hostname}:${port}')
 ```
 
-노트 패키지 매니저 설치
+노드 패키지 매니저 설치
 ```bash
 npm install
 ```
